@@ -1,0 +1,250 @@
+nav li{
+	list-style-type: none;
+	display: inline-block;
+	border:1px dashed red;
+}
+
+.parejaBalet{
+	background-image: url("../img/dance_1.jpg");
+	height: 478px;
+}
+
+.col-4{
+	border: 1px solid red;
+}
+
+.parejaBalet h1{
+	font-size: 80px;
+	padding-top: 73px;
+	padding-bottom: 25px;
+}
+
+.parejaBalet a{
+	text-decoration: none;
+	color:white;
+	margin-left: 30%;
+	border: 1px solid red;
+	padding-right: 35px;
+    padding-left: 35px;
+}
+
+    
+  .col-4{
+	border: 1px solid red;
+}
+
+.parejaBalet h1{
+	font-size: 80px;
+	padding-top: 73px;
+	padding-bottom: 25px;
+}
+
+.parejaBalet a{
+	text-decoration: none;
+	color:white;
+	margin-left: 30%;
+	border: 1px solid red;
+	padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 3%;
+    padding-bottom:5%;
+}
+
+.parejaBalet p{
+	padding-bottom:10%;
+}	
+
+.fila2{
+	background-image: url("../img/textura_2.jpg");
+	height: 370px;
+}
+
+.fila2 p {
+    font-size: 20px;
+    padding-top: 87px;
+}
+
+.fila2 img{
+	width: 9%;
+    position: relative;
+    top: -21px;	
+}
+
+.fila2 a{
+	position: relative;
+	top:-8px;
+	padding: 13px 76px;
+	background-color: #192951;
+	text-decoration: none;
+	margin-bottom: 10px;
+}
+
+.chicoBallet{
+	background-image: url("../img/instructor_4.jpg");
+	height: 500px;
+}
+
+.chicaBallet{
+	background-image: url("../img/profesor_9.jpg");
+	height: 575px;
+}
+
+.chicos{
+	height: 360px;
+	overflow: hidden;
+	border:2px solid #192951;
+}
+
+.boton{
+	font-size: 20px;
+}
+
+.boton a{
+	border:1px solid blue;
+	padding: 28px 169px;
+	position: relative;
+	bottom: 54px;
+	background-color: #192951;
+}
+
+.lema{
+	background-image: url("../img/textura_2.jpg");
+	background-position: top;
+}
+
+
+.lema p {
+    font-size: 42px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+}
+
+.col-6{
+	border:1px solid blue;
+}
+
+.ladoIzquierdo{
+	font-size: 14px;
+}
+
+.parteAzul{
+	background-color: #192951;
+	padding-top: 70px;
+	padding-bottom: 70px;	
+}
+
+
+.balerine{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-position: top right;
+	height: 461px;
+}
+
+.contactanos ul{
+	list-style: none;
+	width: 730px;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	width:100%;
+}
+
+
+
+
+footer{
+	background-color: #192951;
+}
+
+
+/*====================
+background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+ 
+background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+
+background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);*/
+
+
+
+
+
+
+/*form{
+	margin-top: 5px;
+	height: 30px;
+	margin-left: 80px;
+}*/
+
+/*input{    
+	padding: 10px;
+	background: url('../search-icon-md.png') no-repeat 97% center; /*icono lupa
+	background-size: 16px 18px;
+	padding-right: 30px;
+	border: 1px solid #B9B7B7; 
+	margin-left: 60px;
+	width: 60%;
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+/*nav ul{
+	border:1px dashed blue;   margin:auto;
+	list-style-type:none; 
+	padding-top: 34px;
+	font-size: 15px;
+	line-height: 15px;
+	white-space: nowrap;
+}
+
+li{
+	border:1px solid red;
+}
+
+
+nav li{
+	position: relative;
+	float:left;
+	margin: 0;
+	padding: 10px 13px;
+}
+
+nav li:hover a {
+	background: white;
+	border:1px solid blue;
+}
+
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

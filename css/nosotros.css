@@ -1,0 +1,129 @@
+.chicosBailando{
+	background-image: url("../img/dance_7.jpg");
+	height: 400px;
+}
+
+.cajatransparente{
+	background-color: black;
+	opacity: 0.7;
+	width:600px;
+	padding:20px;
+	margin:auto;
+	position:relative;
+	top:150px;
+}
+
+.contenido2{
+	background-image: url("../img/textura_2.jpg");
+}
+
+.foto1{
+	background-image: url("../img/profesor_4.jpg");
+	background-repeat: no-repeat;
+	background-size: 83% 127%;
+	height: 198px;
+}
+
+.foto2{
+	background-image: url("../img/profesor_14.jpg");
+	background-repeat: no-repeat;
+	background-size: 77% 185%;
+	height: 198px;
+}
+
+.foto3{
+	background-image: url("../img/profesor_1.jpg");
+	background-repeat: no-repeat;
+	background-size: 76% 168%; 
+	height: 198px;
+}
+
+.foto4{
+	background-image: url("../img/profesor_10.jpg");
+	background-repeat: no-repeat;
+	background-size: 75% 107%;
+	height: 198px;
+}
+
+
+.foto5{
+	background-image: url("../img/profesor_11.jpg");
+	background-repeat: no-repeat;
+	background-size: 83% 127%;
+	height: 198px;
+}
+
+.foto6{
+	background-image: url("../img/profesor_12.jpg");
+	background-repeat: no-repeat;
+	background-size: 77% 185%;
+	height: 198px;
+}
+
+.foto7{
+	background-image: url("../img/profesor_9.jpg");
+	background-repeat: no-repeat;
+	background-size: 76% 168%; 
+	height: 198px;
+}
+
+.foto8{
+	background-image: url("../img/profesor_15.jpg");
+	background-repeat: no-repeat;
+	background-size: 75% 107%;
+	height: 198px;
+}
+
+.lema{
+	background-image: url("../img/textura_2.jpg");
+	background-position: top;
+}
+
+
+.lema p {
+    font-size: 42px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.chicosBailando {
+    background-image: url("../img/dance_7.jpg");
+    background-size: 145%;
+    background-repeat: no-repeat;
+    background-position: center left;
+    height: 489px;*/
+
+
+    /*size 100% position height*/

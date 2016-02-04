@@ -1,0 +1,56 @@
+.clase1{
+	background-image: url("../img/dance_12.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 87% 106%;
+	height: 409px;
+}
+
+.clase2{
+	background-image: url("../img/breakdance.jpg");
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size: 87% 106%;
+	height: 409px;
+}
+
+.clase3{
+	background-image: url("../img/lirical-jazz.jpg");
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size: 87% 106%;
+	height: 409px;
+}
+
+.clase4{
+	background-image: url("../img/arabe.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 87% 106%;
+	height: 409px;
+}
+
+.clase5{
+	background-image: url("../img/little.jpg");
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size: 87% 106%;
+	height: 409px;
+}
+
+.clase6{
+	background-image: url("../img/yoga.jpg");
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size: 87% 106%;
+	height: 409px;
+}
+
+.clase1 div , .clase2 div, .clase3 div , .clase4 div , .clase5 div , .clase6 div{
+	background-color: black;
+	opacity: 0.6;
+	width:80%;
+	position:relative;
+	left:70px;
+	top:170px;
+}
